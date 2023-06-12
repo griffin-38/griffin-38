@@ -3,7 +3,7 @@
 ---
 
 # 💫 About Me:
-🌱 I’m currently learning more about Python, Web3, and Blockchain<br>💬 Ask me about cypress.io or any tech-related stuff.<br>⚡ Fun fact: Nikolas Tesla was obsessed with the numbers 3-6-9 and I am fluent in German!
+🌱 I’m currently learning more about Python, Web3, and Blockchain<br>💬 Ask me about cypress.io or any tech-related stuff.<br>⚡ Fun fact: Nikolas Tesla was obsessed with the numbers 3-6-9!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miskinyar0) 
