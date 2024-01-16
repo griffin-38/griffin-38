@@ -2,11 +2,16 @@
 
 ---
 
-# 💫 About Me:
-🌱 I’m currently brushing up on my JavaScript, and learning more about Python, Web3, and Blockchain<br>💬 Ask me about anything related to automation and or any tech-related stuff.<br>⚡ Fun fact: Nikolas Tesla was obsessed with the numbers 3-6-9!
+## 💫 About Me
+- Experienced Senior Engineering Leader with a proven track record in diverse technical domains, and project and process management. Specializing in Infrastructure, Cloud Services, Data Management, Web Development, Programming, Continuous Improvement, Security, and Emerging Technologies. 
+- Recognized for ethical, innovative, and empathetic leadership fostering collaboration. Expertise in optimizing SDLC and STLC, enhancing efficiency, and delivering robust applications. Successful in promoting team growth and driving strategic planning for substantial stakeholder support.
+- Consistently delivers customized technology solutions, establishes quality benchmarks, and effectively oversees complex system migrations.
+
+🌱 Passionate about automation, implementing CI/CD pipelines, and avidly learning more about Infrastructure, DevOps tooling, Security, and Compliance. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miskinyar0) 
+
 
 ## 👨🏻‍💻 Laptop in use & Favorite Terminal
 <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2021-333333?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white"/>
