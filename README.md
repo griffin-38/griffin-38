@@ -7,7 +7,7 @@
 - Recognized for ethical, innovative, and empathetic leadership fostering collaboration. Expertise in optimizing SDLC and STLC, enhancing efficiency, and delivering robust applications. Successful in promoting team growth and driving strategic planning for substantial stakeholder support.
 - Consistently delivers customized technology solutions, establishes quality benchmarks, and effectively oversees complex system migrations.
 
-🌱 Passionate about automation, implementing CI/CD pipelines, and avidly learning more about Infrastructure, DevOps tooling, Security, and Compliance. 
+🌱 Passionate about Automation, implementing CI/CD pipelines, and avidly learning more about Infrastructure, DevOps tooling, Security, and Compliance. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miskinyar0) 
